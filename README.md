@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aharper8484
 - 🤓 I am a Yorkshire, UK based Application Developer
 - 👀 Before programming, I worked in International Trade
-- 🌱 I’m currently focusing on the MERN stack
-- 💞️ I’m looking to collaborate on open source projects to build my portfolio
+- 📈 My strengths are working with data, analytics, logic and problem solving
+- 🌱 In my spare time I'm learning the MERN stack
 - 📫 You can reach me by email - aharper8484@gmail.com
 
 <!---
