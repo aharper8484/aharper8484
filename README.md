@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aharper8484
-- 🤓 I am a Yorkshire, UK based Application Developer
+- 🤓 I am a Yorkshire, UK based Integration Developer
 - 👀 Before programming, I worked in International Trade
 - 📈 My strengths are working with data, analytics, logic and problem solving
-- 🌱 In my spare time I'm learning the MERN stack
+- 🌱 In my spare time I study machine learning and build fun projects
 - 📫 You can reach me by email - aharper8484@gmail.com
 
 <!---
